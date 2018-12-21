@@ -11,27 +11,11 @@ public class Female extends Human implements bornChild {
 
     public Female() {
         this.sex = false;
-        this.firstName = "Sara";
+        this.firstName = "Sarah";
         this.lastName = "Connor";
         this.height = 170;
         this.weight = 60;
     }
-
-    @Override
-    public boolean speak(Human human) {
-        return false;
-    }
-
-    @Override
-    public boolean bear(Human human) {
-        return false;
-    }
-
-    @Override
-    public boolean spendTime(Human human) {
-        return false;
-    }
-
 
     @Override
     public Human bornChild(Human partner) {
@@ -53,8 +37,5 @@ public class Female extends Human implements bornChild {
             Human child = new Female(name, partner.lastName, height, weight);
             return child;
         }
-
     }
-
-
 }
