@@ -27,9 +27,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("пол (man/woman): ");
         String sex = scanner.nextLine();
-//        if ((!sex.equals("man")) || (!sex.equals("woman"))) {
-//            System.out.println("неверный пол, введите пол еще раз: ");
-//        }
+
         System.out.println("имя: ");
         String firstName = scanner.nextLine();
         System.out.println("фамилия: ");

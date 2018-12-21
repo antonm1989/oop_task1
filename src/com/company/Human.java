@@ -9,31 +9,14 @@ public abstract class Human {
     protected float height;
     protected float weight;
 
-    public boolean isSex() {
-        return sex;
-    }
-
-
-    public String getFirstName() {
-        return firstName;
-    }
-
     public void setFirstName(String firstName) {
         if (firstName.length() > 0)
             this.firstName = firstName;
     }
 
-    public String getLastName() {
-        return lastName;
-    }
-
     public void setLastName(String lastName) {
         if (lastName.length() > 0)
             this.lastName = lastName;
-    }
-
-    public float getHeight() {
-        return height;
     }
 
     public void setHeight(float height) {
@@ -44,10 +27,6 @@ public abstract class Human {
             Scanner scanner = new Scanner(System.in);
             setHeight(scanner.nextFloat());
         }
-    }
-
-    public float getWeight() {
-        return weight;
     }
 
     public void setWeight(float weight) {

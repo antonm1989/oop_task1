@@ -3,12 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="42b25977-b50a-4a32-85f9-7301f512e2ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_task1/com/company/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop_task1/com/company/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/oop_task1/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/oop_task1/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Female.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Female.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Male.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Male.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/bornChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/bornChild.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+            <state relative-caret-position="330">
+              <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -31,17 +28,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/bornChild.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Human.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+            <state relative-caret-position="-610">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -49,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Male.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="153">
+              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -58,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Female.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+            <state relative-caret-position="441">
+              <caret line="36" column="77" lean-forward="true" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -80,10 +77,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/bornChild.java" />
         <option value="$PROJECT_DIR$/src/com/company/Female.java" />
         <option value="$PROJECT_DIR$/src/com/company/Male.java" />
         <option value="$PROJECT_DIR$/src/com/company/Human.java" />
+        <option value="$PROJECT_DIR$/src/com/company/bornChild.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
@@ -99,7 +96,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -123,6 +119,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,7 +171,7 @@
     <frame x="0" y="22" width="1280" height="736" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14943457" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15185784" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -183,7 +180,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" x="-321" y="-1036" width="1920" height="1036" id="Run" order="2" type="WINDOWED" visible="true" weight="0.3742236" />
+      <window_info active="true" anchor="bottom" x="-321" y="-1036" width="1920" height="1036" id="Run" maximized="true" order="2" visible="true" weight="0.26086956" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -203,38 +200,38 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Female.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Male.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/bornChild.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        <state relative-caret-position="-610">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Male.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Female.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="36" column="77" lean-forward="true" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
         </state>
       </provider>
     </entry>
